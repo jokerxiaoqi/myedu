@@ -9,28 +9,38 @@ def text3():
 
 def aint_demo():
     aint=5
+    # 变量aint赋值为5
     print(aint)
+    # 打印aint
     print(type(aint))
+    #打印aint的类型   （int类型）
 
 def str_demo():
     astr='5'
     print(astr)
     print(type(astr))
+   #打印astr的类型   （str类型）
 
 def float_demo():
     afloat=0.123
     print(afloat)
     print(type(afloat))
+    #打印afloat类型 （float）
 
 def add_demo(a,b):
+    # 增加语法
     print(a+b)
 
 def type_zhuanhuan():
+    # 类型转换
     aint=7
     print(aint)
     print(type (aint))
+    # 转换类型为
     print(type (str(aint)))
+    # 转换类型为
     print(type (int(aint)))
+    # 转换类型为
 
 def float_zhuanhuan():
     afloat=0.01

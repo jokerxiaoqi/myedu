@@ -60,4 +60,5 @@ if __name__ == '__main__':
     # list_sel(alist)
     # list_del()
     # add_list()
-    list_update()
+    # list_update()
+    print(len(alist))

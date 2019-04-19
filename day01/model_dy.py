@@ -1,5 +1,5 @@
 from day01 import base_type
-
+# 从day01调用表base_type
 
 
 if __name__ == '__main__':
